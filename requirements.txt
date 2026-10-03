@@ -1,0 +1,5 @@
+streamlit
+transformers==4.44.2
+torch
+sentencepiece
+PyPDF2
